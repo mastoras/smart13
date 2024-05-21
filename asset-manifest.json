@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/smart13/static/css/main.cbc512fe.css",
+    "main.js": "/smart13/static/js/main.f1ed1fe3.js",
+    "static/js/453.40839bb1.chunk.js": "/smart13/static/js/453.40839bb1.chunk.js",
+    "index.html": "/smart13/index.html",
+    "main.cbc512fe.css.map": "/smart13/static/css/main.cbc512fe.css.map",
+    "main.f1ed1fe3.js.map": "/smart13/static/js/main.f1ed1fe3.js.map",
+    "453.40839bb1.chunk.js.map": "/smart13/static/js/453.40839bb1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbc512fe.css",
+    "static/js/main.f1ed1fe3.js"
+  ]
+}
